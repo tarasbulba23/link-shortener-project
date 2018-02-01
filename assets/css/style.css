@@ -1,0 +1,21 @@
+body {
+	margin-top: 60px;
+	margin-bottom: -60px;
+}
+#img-logo {
+	height: 20px;
+	width: 20px;
+}
+.list-footer {
+	margin-top: 12px;
+	display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+}
+
+.message-border {
+	padding: 15px;
+	margin: 10px 0;
+	border-radius: 5px;
+}
